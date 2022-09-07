@@ -25,7 +25,7 @@ Telegram bot to generate pyrogram and telethon string session.
    ```markdown
    git clone https://github.com/StarkBotsIndustries/StringSessionBot
    ```
-2. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
+2. Dapatkan `DATABASE_URL`. Jika Anda tidak tahu caranya, gunakan hanya menggunakan Tombol Heroku atau hapus hal-hal basis data karena itu bukan paksaan.
    
 3. Rename `.env.sample` to `.env` and fill the needed variables
 
