@@ -75,9 +75,9 @@ Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@tusandiri](https://t.me/tusandiri)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@RafaelSupportGrp](https://t.me/RafaelSupportGrp)
 
 ## :)
 
