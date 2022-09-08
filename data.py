@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
-    generate_single_button = [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+    generate_single_button = [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴛʀɪɴɢ", callback_data="generate")]
 
     home_buttons = [
         generate_single_button,
@@ -13,27 +13,24 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs", url="https://t.me/RafaelSupportGrp")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ❔", callback_data="help"),
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("ᴍᴏʀᴇ ᴀᴍᴀᴢɪɴɢ ʙᴏᴛ", url="https://t.me/RafaelSupportGrp")],
     ]
 
     START = """
-Hey {}
+Hai {}
 
-Welcome to {}
+{} DIBUAT UNTUK MEMBANTU ANDA MENGAMBIL STRING SESSION TELEGRAM ANDA DENGAN AMAN
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
+Jika Anda tidak mempercayai bot ini,
+1) gaush dibaca
+2) hapus chat ini terus blok
 
-Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
-
-By @StarkBots
+Manage by : @RapalelWak
     """
 
     HELP = """
