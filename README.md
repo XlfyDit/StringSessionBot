@@ -2,9 +2,9 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/StringSessionBot"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/XlfyDit/StringSessionBot"><img src="https://telegra.ph/file/66acd82e0fd5d7aa8ff29.jpg" width="2000"></a></p>
 
-Telegram bot to generate pyrogram and telethon string session.
+Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -14,16 +14,15 @@ Telegram bot to generate pyrogram and telethon string session.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StringSessionBot)
 
-1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
-2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
-3. After deploying is complete, tap on "Manage App"
-4. Check the logs to see if your bot is ready!
+1. Ketuk tombol di atas dan isi `API_ID`, `API_HASH`, `BOT_TOKEN` (dan `MUST_JOIN`).
+2. Lalu ketuk "Deploy App" di bawahnya. Tunggu hingga penerapan selesai (akan memakan waktu paling lama 2 menit).
+3. Setelah penggelaran adalah
 
 ### Local Deploying
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/StringSessionBot
+   git clone https://github.com/XlfyDit/StringSessionBot
    ```
 2. Get a `DATABASE_URL`. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
