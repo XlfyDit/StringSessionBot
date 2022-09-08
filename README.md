@@ -12,7 +12,7 @@ Bot Telegram untuk menghasilkan sesi string pyrogram dan telethon.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/XlfyDit/StringSessionBot)
 
 1. Ketuk tombol di atas dan isi `API_ID`, `API_HASH`, `BOT_TOKEN` (dan `MUST_JOIN`).
 2. Lalu ketuk "Deploy App" di bawahnya. Tunggu hingga penerapan selesai (akan memakan waktu paling lama 2 menit).
